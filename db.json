@@ -1,0 +1,6 @@
+{
+  "posts": [],     // entered data store in this [] for api to connect with backend
+  "profile": {
+    "name": "typicode"
+  }
+}
